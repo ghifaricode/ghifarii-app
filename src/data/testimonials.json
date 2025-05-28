@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Andi",
+        "review": "Produk dari Sedap selalu segar dan berkualitas!",
+        "avatar": "https://avatar-placeholder.iran.liara.run/public/1",
+        "image": "/img/testimoni3.png"
+    },
+    {
+        "name": "Budi",
+        "review": "Saya sangat suka pelayanan dan pengemasannya.",
+        "avatar": "https://avatar-placeholder.iran.liara.run/public/2",
+        "image": "/img/testimoni1.png"
+    },
+    {
+        "name": "Citra",
+        "review": "Rasa sayurannya beda, lebih alami!",
+        "avatar": "https://avatar-placeholder.iran.liara.run/public/3",
+        "image": "/img/testimoni2.png"
+    },
+    {
+        "name": "Dewi",
+        "review": "Sedap membantu saya hidup sehat.",
+        "avatar": "https://avatar-placeholder.iran.liara.run/public/4",
+        "image": "/img/testimoni4.png"
+    },
+    {
+        "name": "Eka",
+        "review": "Belanja jadi lebih mudah dan menyenangkan!",
+        "avatar": "https://avatar-placeholder.iran.liara.run/public/5",
+        "image": "/img/testimoni5.png"
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Sayur Bayam Organik",
+        "price": 7500,
+        "image": "/img/spinaco.png"
+    },
+    {
+        "name": "Tomat Segar",
+        "price": 10000,
+        "image": "/img/tomato.png"
+    },
+    {
+        "name": "Wortel Organik",
+        "price": 8500,
+        "image": "/img/carroto1.png"
+    }
+]

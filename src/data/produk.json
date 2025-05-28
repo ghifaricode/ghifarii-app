@@ -1,0 +1,7 @@
+[
+  { "kode_produk": "P001", "nama_produk": "Sayur Bayam", "harga": 8000, "stok": 5 },
+  { "kode_produk": "P002", "nama_produk": "Tomat", "harga": 6000, "stok": 0 },
+  { "kode_produk": "P003", "nama_produk": "Kentang", "harga": 10000, "stok": 15 },
+  { "kode_produk": "P004", "nama_produk": "Wortel", "harga": 7000, "stok": 0 },
+  { "kode_produk": "P005", "nama_produk": "Kangkung", "harga": 7500, "stok": 10 }
+]

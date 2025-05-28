@@ -1,0 +1,7 @@
+[
+  { "order_id": 101, "nama_pemesan": "Rina", "email": "rina@mail.com", "status": "Diproses" },
+  { "order_id": 102, "nama_pemesan": "Bayu", "email": "bayu@mail.com", "status": "Dikirim" },
+  { "order_id": 103, "nama_pemesan": "Tari", "email": "tari@mail.com", "status": "Selesai" },
+  { "order_id": 104, "nama_pemesan": "Dio", "email": "dio@mail.com", "status": "Menunggu Pembayaran" },
+  { "order_id": 105, "nama_pemesan": "Sita", "email": "sita@mail.com", "status": "Dibatalkan" }
+]
